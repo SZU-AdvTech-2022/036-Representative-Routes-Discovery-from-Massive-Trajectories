@@ -1,0 +1,7 @@
+@inproceedings{REPO-036,
+    author = "Wang, Tingting and Huang, Shixun and Bao, Zhifeng and Culpepper, J Shane and Arablouei, Reza",
+    booktitle = "Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining",
+    pages = "4059--4069",
+    title = "{Representative Routes Discovery from Massive Trajectories}",
+    year = "2022"
+}
